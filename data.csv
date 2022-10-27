@@ -1,0 +1,31 @@
+﻿OBJECTID,GlobalID,CreationDate,Creator,EditDate,Edit,Sponsor_Organization,Location,Notes,x,y,FID
+6,14346c4c-632a-4470-ad2c-f1c217e5aefc,2019/04/25 23:37:13+00,ed.blayney_metro,2019/09/13 22:23:22+00,ed.blayney_metro,,Dixie & Broadway,,-85.78149191,38.24894298,1
+8,112449e0-190c-47d3-83d1-d6378fb4e8c4,2019/04/25 23:38:00+00,ed.blayney_metro,2019/10/18 23:54:04+00,ed.blayney_metro,,Sheppard Park,,-85.77946898,38.25047142,2
+11,ef347f13-2d30-44cb-a638-99bdd594b9db,2019/04/26 00:12:10+00,ed.blayney_metro,2019/09/13 21:38:17+00,ed.blayney_metro,N/A,18th & Magazine,,-85.78129714,38.25020095,3
+12,140cce2b-e58d-4441-8657-1fa285a47a4c,2019/04/26 00:12:19+00,ed.blayney_metro,2019/09/13 21:43:52+00,ed.blayney_metro,N/A,18th & Madison,,-85.78088306,38.25258658,4
+13,3e1acb16-5673-4900-a2f3-4480d3799617,2019/04/26 00:12:26+00,ed.blayney_metro,2019/09/13 21:39:55+00,ed.blayney_metro,N/A,18th & Muhammad Ali,Smart Bus Stop,-85.78067409,38.25368787,5
+16,2fd082a3-f946-427b-ac25-e15e4c4538a0,2019/04/26 00:13:04+00,ed.blayney_metro,2019/10/18 23:53:56+00,ed.blayney_metro,N/A,Sheppard Park,,-85.77804968,38.25000175,6
+19,9739787e-4d4c-4fbe-9088-2d29ff39f4a6,2019/04/26 00:15:26+00,ed.blayney_metro,2019/10/18 23:52:30+00,ed.blayney_metro,N/A,William Britt,,-85.79808467,38.25214814,7
+24,b7672bcf-ec9f-4f1f-a3fe-c4d74cbc3421,2019/04/26 00:18:00+00,ed.blayney_metro,2020/08/18 17:29:56+00,ed.blayney_metro,N/A,Baxter Park,,-85.76878552,38.25491874,8
+25,65aac530-62ec-47d4-8ee2-dbc30dba13a8,2019/04/26 00:18:05+00,ed.blayney_metro,2020/08/18 17:30:04+00,ed.blayney_metro,N/A,Baxter Park,,-85.76896734,38.25389793,9
+26,1a865ae5-3cc0-410e-a498-4e54f46dfdc8,2019/04/26 00:18:11+00,ed.blayney_metro,2020/08/18 17:30:12+00,ed.blayney_metro,N/A,Baxter Park,,-85.770392,38.25401671,10
+51,e81f8ea8-ef6e-4e10-9b21-8a6705312d42,2019/04/26 23:05:40+00,ed.blayney_metro,2019/09/13 21:28:21+00,ed.blayney_metro,N/A,23 & Market,Smart Bus Stop,-85.7888428,38.25879215,11
+94,d75c5401-5d4e-494c-82c6-b0657a1d32c5,2019/09/13 21:21:28+00,ed.blayney_metro,2019/09/13 21:21:53+00,ed.blayney_metro,N/A,15th & Muhammad Ali,Smart Bus Stop,-85.77586382,38.25319887,12
+95,e6e23995-63ef-443d-902a-c29c688b2b0a,2019/09/13 21:22:59+00,ed.blayney_metro,2019/09/13 21:23:13+00,ed.blayney_metro,N/A,13th & Jefferson,Smart Bus Stop,-85.77195064,38.25551569,13
+96,bf52c060-300b-4de2-a538-8e35a200d855,2019/09/13 21:24:29+00,ed.blayney_metro,2019/09/13 21:29:10+00,ed.blayney_metro,N/A,11th & Chestnut,Smart Bus Stop,-85.76948946,38.25024952,14
+101,913d6ea4-7d7a-4e1c-8d2f-b77d256ec4c3,2019/09/13 21:50:46+00,ed.blayney_metro,2019/09/13 21:50:56+00,ed.blayney_metro,N/A,18th & Chestnut,,-85.78106757,38.2515373,15
+110,6e0d3510-2a7a-40d5-911a-c7d204adb149,2019/10/17 23:23:24+00,ed.blayney_metro,2019/10/17 23:23:37+00,ed.blayney_metro,N/A,Elliot Square,,-85.79814838,38.25103114,16
+112,32d979ab-02ee-43a5-a440-e5c8caf58f88,2019/10/17 23:24:26+00,ed.blayney_metro,2019/10/17 23:24:36+00,ed.blayney_metro,N/A,25th & Market,,-85.79150328,38.25928955,17
+113,37dbd00d-95a3-496b-ab6e-f8d312f0a945,2019/10/17 23:25:50+00,ed.blayney_metro,2020/08/18 17:17:52+00,ed.blayney_metro,Landbank,1900 Magazine St,Phase II; Future Wifi Pocket Park?,-85.78306429,38.25030207,18
+114,be58d6f4-3894-4fb0-bb4f-64af96c6140f,2019/10/17 23:39:06+00,ed.blayney_metro,2019/10/17 23:39:14+00,ed.blayney_metro,N/A,17th & Madison,,-85.77922625,38.25244765,19
+127,86165182-aca0-4160-a952-56cdef66bde8,2019/10/18 23:51:44+00,ed.blayney_metro,2019/10/18 23:52:13+00,ed.blayney_metro,N/A,Elliot Square,Basketball Court,-85.79897588,38.2521047,20
+130,96e093bb-562c-4dba-bf82-2c1ec93b5628,2019/11/05 06:23:09+00,ed.blayney_metro,2020/08/18 17:17:20+00,ed.blayney_metro,Landbank,529 Dr W J Hodge St,Phase II; Future Wifi Pocket Park; structure to be demoed in early 2020,-85.78577309,38.25311777,21
+132,63b442a0-1394-424b-9df8-4ed393466530,2019/11/05 06:30:49+00,ed.blayney_metro,2019/11/05 06:31:02+00,ed.blayney_metro,N/A,17th & Chestnut,TARC Stop,-85.77955462,38.25130265,22
+135,4b39224f-96ad-403f-ac0c-8678e420963f,2019/11/13 02:18:37+00,ed.blayney_metro,2020/07/27 16:56:17+00,ed.blayney_metro,N/A,18th & Market,TARC Stops,-85.77995658,38.2578225,23
+136,9b3fda2f-88ef-41d3-8657-adf59384337c,2019/11/13 02:22:18+00,ed.blayney_metro,2019/11/13 02:22:46+00,ed.blayney_metro,N/A,9th & Muhammad Ali,Across from large LMHA facility; 9th St Ped project,-85.76568716,38.25209811,24
+138,1c89c936-ea9a-4753-8c1d-76f086d15aed,2019/11/15 23:40:15+00,ed.blayney_metro,2019/11/15 23:40:35+00,ed.blayney_metro,N/A,10th & Broadway,TARC Stop; high ridership,-85.76821743,38.2471475,25
+139,e3e5315c-7c07-460f-b322-a2d5813bbdbe,2019/11/15 23:57:42+00,ed.blayney_metro,2019/11/15 23:58:33+00,ed.blayney_metro,N/A,30th & Market,TARC Stop; Baptist Tabernacle,-85.79984449,38.26011786,26
+141,f39f3b79-85d5-469e-96fe-b243665b76ed,2019/11/19 23:24:06+00,ed.blayney_metro,2020/01/31 20:03:48+00,ed.blayney_metro,N/A,1535 W Broadway,Louisville Urban League Mini-Golf Parklet,-85.77751289,38.24859401,27
+143,e5c07dcb-02c7-4697-a55a-7f0824a27860,2020/07/23 21:49:27+00,ed.blayney_metro,2020/08/18 17:18:25+00,ed.blayney_metro,N/A,431 South 26th ST,Phase II; Future Wifi Pocket Park?,-85.79404359,38.25607037,28
+145,62d22a37-c87b-4044-b94d-6e3d8109cb3b,2020/07/23 22:01:55+00,ed.blayney_metro,2020/07/23 22:02:17+00,ed.blayney_metro,N/A,2226 Jefferson St,,-85.78784419,38.25725415,29
+147,0328584b-f5ff-4194-ad59-fde8c3f42f25,2020/08/05 23:33:03+00,ed.blayney_metro,2020/08/18 17:18:36+00,ed.blayney_metro,N/A,28th & Congress,Phase II; Future Wi Fi Pocket Park?,-85.79665582,38.25901584,30
